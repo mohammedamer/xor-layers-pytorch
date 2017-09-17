@@ -1,19 +1,17 @@
-#XOR in PyTorch
+# XOR in PyTorch
 This is a minimal implementation of XOR in PyTorch and Jupyter
-##Neural Network Model
-###Input
+## Neural Network Model
+### Input
 Dimension: 2
-###Hidden Layer
+### Hidden Layer
 **Dimension:** 2
 
 **Activation Function:** ReLU
-###Output
+### Output
 **Dimension:** 1
 
 **Activation Function:** Sigmoid
-###Loss
+### Loss
 Cross Entropy
-###Optimization
+### Optimization
 SGD with momentum
-
-
